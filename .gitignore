@@ -1,0 +1,29 @@
+# Dépendances
+node_modules/
+
+# Build Vite
+dist/
+dist-ssr/
+
+# Fichiers locaux
+*.local
+.env
+.env.*
+
+# Éditeurs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sources originales (conservées hors du build)
+CV_Noah_BELLO_2025.html
+exemple.png
+exemple\ 2.png
